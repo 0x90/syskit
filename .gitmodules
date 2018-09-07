@@ -1,0 +1,345 @@
+[submodule "PythonForWindows"]
+	path = PythonForWindows
+	url = https://github.com/hakril/PythonForWindows/
+[submodule "hackManager"]
+	path = hackManager
+	url = https://github.com/SirFroweey/hackManager
+[submodule "Windows-Substrate"]
+	path = Windows-Substrate
+	url = https://github.com/evilexecutable/Windows-Substrate
+[submodule "LKD"]
+	path = LKD
+	url = https://github.com/sogeti-esec-lab/LKD/
+[submodule "winappdbg"]
+	path = winappdbg
+	url = https://github.com/MarioVilas/winappdbg
+[submodule "impacket"]
+	path = impacket
+	url = https://github.com/CoreSecurity/impacket
+[submodule "pywin32"]
+	path = pywin32
+	url = https://github.com/mhammond/pywin32
+[submodule "pywinusb"]
+	path = pywinusb
+	url = https://github.com/rene-aguirre/pywinusb
+[submodule "Windows-Exploit-Suggester"]
+	path = Windows-Exploit-Suggester
+	url = https://github.com/GDSSecurity/Windows-Exploit-Suggester
+[submodule "python-registry"]
+	path = python-registry
+	url = https://github.com/williballenthin/python-registry
+[submodule "mimipy"]
+	path = mimipy
+	url = https://github.com/n1nj4sec/mimipy
+[submodule "memorpy"]
+	path = memorpy
+	url = https://github.com/n1nj4sec/memorpy
+[submodule "PyWiWi"]
+	path = PyWiWi
+	url = https://github.com/6e726d/PyWiWi
+[submodule "python-haystack"]
+	path = python-haystack
+	url = https://github.com/trolldbois/python-haystack
+[submodule "RPCForge"]
+	path = RPCForge
+	url = https://github.com/sogeti-esec-lab/RPCForge
+[submodule "Windows-SignedBinary"]
+	path = Windows-SignedBinary
+	url = https://github.com/Mr-Un1k0d3r/Windows-SignedBinary
+[submodule "pythonnet"]
+	path = pythonnet
+	url = https://github.com/pythonnet/pythonnet
+[submodule "BugId"]
+	path = BugId
+	url = https://github.com/SkyLined/BugId
+[submodule "pywebview"]
+	path = pywebview
+	url = https://github.com/r0x0r/pywebview
+[submodule "winapi-deobfuscation"]
+	path = winapi-deobfuscation
+	url = https://github.com/cylance/winapi-deobfuscation
+[submodule "Pymem"]
+	path = Pymem
+	url = https://github.com/srounet/Pymem
+[submodule "DisableWinTracking"]
+	path = DisableWinTracking
+	url = https://github.com/10se1ucgo/DisableWinTracking
+[submodule "psutil"]
+	path = psutil
+	url = https://github.com/giampaolo/psutil
+[submodule "CrackMapExec"]
+	path = CrackMapExec
+	url = https://github.com/byt3bl33d3r/CrackMapExec
+[submodule "keyboard"]
+	path = keyboard
+	url = https://github.com/boppreh/keyboard
+[submodule "BeRoot"]
+	path = BeRoot
+	url = https://github.com/AlessandroZ/BeRoot
+[submodule "fibratus"]
+	path = fibratus
+	url = https://github.com/rabbitstack/fibratus
+[submodule "bleachbit"]
+	path = bleachbit
+	url = https://github.com/bleachbit/bleachbit
+[submodule "win_driver_plugin"]
+	path = win_driver_plugin
+	url = https://github.com/mwrlabs/win_driver_plugin
+[submodule "pyrexecd"]
+	path = pyrexecd
+	url = https://github.com/euske/pyrexecd
+[submodule "pysmb"]
+	path = pysmb
+	url = https://github.com/miketeo/pysmb
+[submodule "python-dll-injection"]
+	path = python-dll-injection
+	url = https://github.com/infodox/python-dll-injection
+[submodule "pysecdump"]
+	path = pysecdump
+	url = https://github.com/pentestmonkey/pysecdump
+[submodule "windapsearch"]
+	path = windapsearch
+	url = https://github.com/ropnop/windapsearch
+[submodule "LaZagneForensic"]
+	path = LaZagneForensic
+	url = https://github.com/AlessandroZ/LaZagneForensic
+[submodule "PyStat"]
+	path = PyStat
+	url = https://github.com/roothaxor/PyStat
+[submodule "pywinrm"]
+	path = pywinrm
+	url = https://github.com/diyan/pywinrm
+[submodule "WindowsDefenderTools"]
+	path = WindowsDefenderTools
+	url = https://github.com/0xAlexei/WindowsDefenderTools
+[submodule "windows_sshagent_extract"]
+	path = windows_sshagent_extract
+	url = https://github.com/ropnop/windows_sshagent_extract
+[submodule "infi.systray"]
+	path = infi.systray
+	url = https://github.com/Infinidat/infi.systray
+[submodule "event2timeline"]
+	path = event2timeline
+	url = https://github.com/certsocietegenerale/event2timeline
+[submodule "tracecorn"]
+	path = tracecorn
+	url = https://github.com/icchy/tracecorn
+[submodule "MSWinPrint"]
+	path = MSWinPrint
+	url = https://github.com/Solomoriah/MSWinPrint
+[submodule "EventMonkey"]
+	path = EventMonkey
+	url = https://github.com/devgc/EventMonkey
+[submodule "desktop-mirror"]
+	path = desktop-mirror
+	url = https://github.com/fcwu/desktop-mirror
+[submodule "windows-installer-file-search"]
+	path = windows-installer-file-search
+	url = https://github.com/Zero3/windows-installer-file-search
+[submodule "win32wifi"]
+	path = win32wifi
+	url = https://github.com/kedos/win32wifi
+[submodule "dumplib"]
+	path = dumplib
+	url = https://github.com/nforest/dumplib
+[submodule "pyinject"]
+	path = pyinject
+	url = https://github.com/psychomario/pyinject
+[submodule "pyhook_py3k"]
+	path = pyhook_py3k
+	url = https://github.com/Answeror/pyhook_py3k
+[submodule "pydbg"]
+	path = pydbg
+	url = https://github.com/OpenRCE/pydbg
+[submodule "flare-dbg"]
+	path = flare-dbg
+	url = https://github.com/fireeye/flare-dbg
+[submodule "iofuzz"]
+	path = iofuzz
+	url = https://github.com/debasishm89/iofuzz
+[submodule "WindowsExploits"]
+	path = WindowsExploits
+	url = https://github.com/abatchy17/WindowsExploits
+[submodule "mmcbrute"]
+	path = mmcbrute
+	url = https://github.com/Gilks/mmcbrute
+[submodule "rst2word"]
+	path = rst2word
+	url = https://github.com/rjarry/rst2word
+[submodule "RPCSniffer"]
+	path = RPCSniffer
+	url = https://github.com/AdiKo/RPCSniffer
+[submodule "usbdeviceforensics"]
+	path = usbdeviceforensics
+	url = https://github.com/woanware/usbdeviceforensics
+[submodule "winreg-kb"]
+	path = winreg-kb
+	url = https://github.com/libyal/winreg-kb
+[submodule "winregmitm"]
+	path = winregmitm
+	url = https://github.com/shramos/winregmitm
+[submodule "Registry_Enumerator"]
+	path = Registry_Enumerator
+	url = https://github.com/slacker007/Registry_Enumerator
+[submodule "RegistryParser"]
+	path = RegistryParser
+	url = https://github.com/hy00un/RegistryParser
+[submodule "LNKUp"]
+	path = LNKUp
+	url = https://github.com/Plazmaz/LNKUp
+[submodule "win10SecuCheck"]
+	path = win10SecuCheck
+	url = https://github.com/1uminary/win10SecuCheck
+[submodule "dks"]
+	path = dks
+	url = https://github.com/KavehRahnejat/dks
+[submodule "dfwinreg"]
+	path = dfwinreg
+	url = https://github.com/log2timeline/dfwinreg
+[submodule "dfvfs"]
+	path = dfvfs
+	url = https://github.com/log2timeline/dfvfs/
+[submodule "python-evt"]
+	path = python-evt
+	url = https://github.com/williballenthin/python-evt
+[submodule "excel_wrapper"]
+	path = excel_wrapper
+	url = https://github.com/OpenMDAO-Plugins/excel_wrapper
+[submodule "nxdbg"]
+	path = nxdbg
+	url = https://github.com/switchbrew/nxdbg
+[submodule "shimmy"]
+	path = shimmy
+	url = https://github.com/pfmoore/shimmy
+[submodule "RAW_SOCKETS"]
+	path = RAW_SOCKETS
+	url = https://github.com/anuragdalvi/RAW_SOCKETS
+[submodule "Registry_Forensic_Tool"]
+	path = Registry_Forensic_Tool
+	url = https://github.com/jws8787/Registry_Forensic_Tool
+[submodule "secenum"]
+	path = secenum
+	url = https://github.com/darkw1z/secenum
+[submodule "pykdclient"]
+	path = pykdclient
+	url = https://github.com/JayFoxRox/pykdclient
+[submodule "py_win_unc"]
+	path = py_win_unc
+	url = https://github.com/CovenantEyes/py_win_unc
+[submodule "flare-qdb"]
+	path = flare-qdb
+	url = https://github.com/fireeye/flare-qdb
+[submodule "WindowsFirewallHookDriverEnumeration"]
+	path = WindowsFirewallHookDriverEnumeration
+	url = https://github.com/nccgroup/WindowsFirewallHookDriverEnumeration
+[submodule "dllhook"]
+	path = dllhook
+	url = https://github.com/cosine0/dllhook
+[submodule "PyKit"]
+	path = PyKit
+	url = https://github.com/cryzed/PyKit
+[submodule "wpi"]
+	path = wpi
+	url = https://github.com/meng89/wpi
+[submodule "Windows-Hooking"]
+	path = Windows-Hooking
+	url = https://github.com/danielsmith0612/Windows-Hooking
+[submodule "WMI_Persistence"]
+	path = WMI_Persistence
+	url = https://github.com/darkquasar/WMI_Persistence
+[submodule "win_enum_local"]
+	path = win_enum_local
+	url = https://github.com/sn0wfa11/win_enum_local
+[submodule "Reverse_SSH_Shell"]
+	path = Reverse_SSH_Shell
+	url = https://github.com/ahhh/Reverse_SSH_Shell
+[submodule "pylnker"]
+	path = pylnker
+	url = https://github.com/HarmJ0y/pylnker
+[submodule "hook_api"]
+	path = hook_api
+	url = https://github.com/EgeBalci/hook_api
+[submodule "apiscout"]
+	path = apiscout
+	url = https://github.com/danielplohmann/apiscout
+[submodule "PaperMachete"]
+	path = PaperMachete
+	url = https://github.com/cetfor/PaperMachete
+[submodule "PyDbgEng"]
+	path = PyDbgEng
+	url = https://github.com/walkerfuz/PyDbgEng
+[submodule "win-driver-tools"]
+	path = win-driver-tools
+	url = https://github.com/sam-b/win-driver-tools
+[submodule "Kfuzz"]
+	path = Kfuzz
+	url = https://github.com/pig123/Kfuzz
+[submodule "flare-floss"]
+	path = flare-floss
+	url = https://github.com/cyberheartmi9/flare-floss
+[submodule "pyrebox"]
+	path = pyrebox
+	url = https://github.com/Cisco-Talos/pyrebox
+[submodule "python_lnk_maker"]
+	path = python_lnk_maker
+	url = https://github.com/carnal0wnage/python_lnk_maker
+[submodule "winsys"]
+	path = winsys
+	url = https://github.com/tjguk/winsys
+[submodule "win-unicode-console"]
+	path = win-unicode-console
+	url = https://github.com/Drekin/win-unicode-console
+[submodule "Windows-Debugger-and-Disassembler"]
+	path = Windows-Debugger-and-Disassembler
+	url = https://github.com/Starwarsfan2099/Windows-Debugger-and-Disassembler
+[submodule "MSUAnalyzer"]
+	path = MSUAnalyzer
+	url = https://github.com/maxpat78/MSUAnalyzer
+[submodule "win_update_permanence_swap"]
+	path = win_update_permanence_swap
+	url = https://github.com/sam-b/win_update_permanence_swap
+[submodule "SoftwareList"]
+	path = SoftwareList
+	url = https://github.com/gousaiyang/SoftwareList
+[submodule "polenum"]
+	path = polenum
+	url = https://github.com/Wh1t3Fox/polenum
+[submodule "ranger"]
+	path = ranger
+	url = https://github.com/funkandwagnalls/ranger
+[submodule "py-tools"]
+	path = py-tools
+	url = https://github.com/winterTTr/py-tools
+[submodule "ShimCacheParser"]
+	path = ShimCacheParser
+	url = https://github.com/mandiant/ShimCacheParser
+[submodule "DbgBasedApiMon"]
+	path = DbgBasedApiMon
+	url = https://github.com/humblepride/DbgBasedApiMon
+[submodule "WinAPI"]
+	path = WinAPI
+	url = https://github.com/yun1113/WinAPI
+[submodule "python-ntfs"]
+	path = python-ntfs
+	url = https://github.com/williballenthin/python-ntfs
+[submodule "ntfs"]
+	path = ntfs
+	url = https://github.com/sunshowers/ntfs
+[submodule "pyADS"]
+	path = pyADS
+	url = https://github.com/RobinDavid/pyADS
+[submodule "USN-Journal-Parser"]
+	path = USN-Journal-Parser
+	url = https://github.com/PoorBillionaire/USN-Journal-Parser
+[submodule "ntfsrecover"]
+	path = ntfsrecover
+	url = https://github.com/nneonneo/ntfsrecover
+[submodule "fs"]
+	path = fs
+	url = https://github.com/mrisaev/fs
+[submodule "mnm"]
+	path = mnm
+	url = https://github.com/diogo-fernan/mnm
+[submodule "winshell"]
+	path = winshell
+	url = https://github.com/tjguk/winshell
