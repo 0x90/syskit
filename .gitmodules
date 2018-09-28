@@ -343,3 +343,6 @@
 [submodule "winshell"]
 	path = winshell
 	url = https://github.com/tjguk/winshell
+[submodule "injdrv"]
+	path = injdrv
+	url = https://github.com/wbenny/injdrv
