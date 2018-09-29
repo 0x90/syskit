@@ -346,3 +346,6 @@
 [submodule "injdrv"]
 	path = injdrv
 	url = https://github.com/wbenny/injdrv
+[submodule "pyWinClobber"]
+	path = pyWinClobber
+	url = https://github.com/JustAMan/pyWinClobber
