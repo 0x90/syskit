@@ -313,9 +313,6 @@
 [submodule "ShimCacheParser"]
 	path = ShimCacheParser
 	url = https://github.com/mandiant/ShimCacheParser
-[submodule "DbgBasedApiMon"]
-	path = DbgBasedApiMon
-	url = https://github.com/humblepride/DbgBasedApiMon
 [submodule "WinAPI"]
 	path = WinAPI
 	url = https://github.com/yun1113/WinAPI
