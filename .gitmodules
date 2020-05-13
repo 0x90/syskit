@@ -340,3 +340,6 @@
 [submodule "hackManager"]
 	path = hackManager
 	url = https://github.com/Iazzetta/hackManager
+[submodule "CrackMapExtreme"]
+	path = CrackMapExtreme
+	url = https://github.com/awsmhacks/CrackMapExtreme
