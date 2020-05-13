@@ -337,3 +337,6 @@
 [submodule "pyWinClobber"]
 	path = pyWinClobber
 	url = https://github.com/JustAMan/pyWinClobber
+[submodule "hackManager"]
+	path = hackManager
+	url = https://github.com/Iazzetta/hackManager
