@@ -262,9 +262,6 @@
 [submodule "PaperMachete"]
 	path = PaperMachete
 	url = https://github.com/cetfor/PaperMachete
-[submodule "PyDbgEng"]
-	path = PyDbgEng
-	url = https://github.com/walkerfuz/PyDbgEng
 [submodule "win-driver-tools"]
 	path = win-driver-tools
 	url = https://github.com/sam-b/win-driver-tools
