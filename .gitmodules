@@ -1,9 +1,6 @@
 [submodule "PythonForWindows"]
 	path = PythonForWindows
 	url = https://github.com/hakril/PythonForWindows/
-[submodule "hackManager"]
-	path = hackManager
-	url = https://github.com/SirFroweey/hackManager
 [submodule "Windows-Substrate"]
 	path = Windows-Substrate
 	url = https://github.com/evilexecutable/Windows-Substrate
