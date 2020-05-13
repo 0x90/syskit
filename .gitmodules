@@ -241,9 +241,6 @@
 [submodule "wpi"]
 	path = wpi
 	url = https://github.com/meng89/wpi
-[submodule "Windows-Hooking"]
-	path = Windows-Hooking
-	url = https://github.com/danielsmith0612/Windows-Hooking
 [submodule "WMI_Persistence"]
 	path = WMI_Persistence
 	url = https://github.com/darkquasar/WMI_Persistence
